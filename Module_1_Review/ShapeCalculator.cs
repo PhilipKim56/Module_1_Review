@@ -59,7 +59,21 @@ namespace Module_1_Review
             double area = CalculateRectangleArea(length, width);
             Console.WriteLine($"Area of the rectangle with length {length} and width {width} is: {area}");
         }
-        
 
+        public static double CalculateSquareArea(double side)
+        {
+
+            return side * side;
+        }
+
+
+        public static void SquTest(string[] args)
+        {
+            double side = 4.0;
+
+
+            double area = CalculateSquareArea(side);
+            Console.WriteLine($"Area of the square with side {side} is: {area}");
+        }
     }
 }
