@@ -42,5 +42,24 @@ namespace Module_1_Review
             double area = CalculateTriangleArea(baseLength, height);
             Console.WriteLine($"Area of the triangle with base {baseLength} and height {height} is: {area}");
         }
+
+        public static double CalculateRectangleArea(double length, double width)
+        {
+            
+            return length * width;
+        }
+
+        
+        public static void RecTest(string[] args)
+        {
+            double length = 5.0; 
+            double width = 3.0;  
+
+            
+            double area = CalculateRectangleArea(length, width);
+            Console.WriteLine($"Area of the rectangle with length {length} and width {width} is: {area}");
+        }
+        
+
     }
 }
