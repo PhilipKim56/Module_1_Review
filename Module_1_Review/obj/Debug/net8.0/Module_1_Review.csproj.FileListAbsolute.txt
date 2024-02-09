@@ -1,0 +1,5 @@
+C:\Users\filsh_000\Desktop\repos\Module_1_Review\Module_1_Review\obj\Debug\net8.0\Module_1_Review.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filsh_000\Desktop\repos\Module_1_Review\Module_1_Review\obj\Debug\net8.0\Module_1_Review.AssemblyInfoInputs.cache
+C:\Users\filsh_000\Desktop\repos\Module_1_Review\Module_1_Review\obj\Debug\net8.0\Module_1_Review.AssemblyInfo.cs
+C:\Users\filsh_000\Desktop\repos\Module_1_Review\Module_1_Review\obj\Debug\net8.0\Module_1_Review.csproj.CoreCompileInputs.cache
+C:\Users\filsh_000\Desktop\repos\Module_1_Review\Module_1_Review\obj\Debug\net8.0\Module_1_Review.sourcelink.json
