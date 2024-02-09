@@ -3,3 +3,13 @@ C:\Users\filsh_000\Desktop\repos\Module_1_Review\Module_1_Review\obj\Debug\net8.
 C:\Users\filsh_000\Desktop\repos\Module_1_Review\Module_1_Review\obj\Debug\net8.0\Module_1_Review.AssemblyInfo.cs
 C:\Users\filsh_000\Desktop\repos\Module_1_Review\Module_1_Review\obj\Debug\net8.0\Module_1_Review.csproj.CoreCompileInputs.cache
 C:\Users\filsh_000\Desktop\repos\Module_1_Review\Module_1_Review\obj\Debug\net8.0\Module_1_Review.sourcelink.json
+C:\Users\filsh_000\Desktop\repos\Module_1_Review\Module_1_Review\bin\Debug\net8.0\Module_1_Review.exe
+C:\Users\filsh_000\Desktop\repos\Module_1_Review\Module_1_Review\bin\Debug\net8.0\Module_1_Review.deps.json
+C:\Users\filsh_000\Desktop\repos\Module_1_Review\Module_1_Review\bin\Debug\net8.0\Module_1_Review.runtimeconfig.json
+C:\Users\filsh_000\Desktop\repos\Module_1_Review\Module_1_Review\bin\Debug\net8.0\Module_1_Review.dll
+C:\Users\filsh_000\Desktop\repos\Module_1_Review\Module_1_Review\bin\Debug\net8.0\Module_1_Review.pdb
+C:\Users\filsh_000\Desktop\repos\Module_1_Review\Module_1_Review\obj\Debug\net8.0\Module_1_Review.dll
+C:\Users\filsh_000\Desktop\repos\Module_1_Review\Module_1_Review\obj\Debug\net8.0\refint\Module_1_Review.dll
+C:\Users\filsh_000\Desktop\repos\Module_1_Review\Module_1_Review\obj\Debug\net8.0\Module_1_Review.pdb
+C:\Users\filsh_000\Desktop\repos\Module_1_Review\Module_1_Review\obj\Debug\net8.0\Module_1_Review.genruntimeconfig.cache
+C:\Users\filsh_000\Desktop\repos\Module_1_Review\Module_1_Review\obj\Debug\net8.0\ref\Module_1_Review.dll
